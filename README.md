@@ -2,7 +2,7 @@
 
 
 
-Here is a diary of leetcode practice from mayaobobby. The goal is to master the skill of programming as well as the different programming languages. 
+Here is a diary of leetcode practice from mayaobobby. The goal is to master the skill of programming as well as the different programming languages. The plan is to firstly finish the quizs in C, the in python in order to learning efficiently. Finally I will use c++ to review.
 
 Already been familier:
 C, C++, C#
