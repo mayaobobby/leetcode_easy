@@ -19,6 +19,7 @@ Quantum Communication -> Hardware Developping -> System Design -> FPGA Programmi
 Here are the ideas of each quiz:
 Array:
 1.Remove Duplicates from Sorted Array:
+
 2.Best Time to Buy and Sell Stock II:
 3.Rotate Array:
 4.Contains Duplicate:
