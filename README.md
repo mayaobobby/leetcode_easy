@@ -17,7 +17,9 @@ Career:
 Quantum Communication -> Hardware Developping -> System Design -> FPGA Programming
 
 Here are the ideas of each quiz:
+
 Array:
+
 1.Remove Duplicates from Sorted Array: 
 Comparing between the two adjacent values, if they are not the same, then put the different one to the next place and move to the next two adjacent values(including the manipulated one). Otherwise just move.
 
@@ -50,6 +52,7 @@ One by one.
 11.Rotate Image:
 
 Strings:
+
 1.Reverse String:
 Copy reversedly one by one(Don't forget the last null one).
 
@@ -76,6 +79,7 @@ memcmp().
 9.Longest Commom Prefix:
 
 Linked List:
+
 1.Delete Node in a Linked List:
 
 
