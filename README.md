@@ -51,16 +51,34 @@ One by one.
 
 Strings:
 1.Reverse String:
+Copy reversedly one by one(Don't forget the last null one).
+
 2.Reverse Integer:
+Modulus 10 then get the last significant then devided by 10 to get rid of it.
+
 3.First Unique Character in a String:
+ASCII table to list the lowercase letters from 0~25, then check the numbers of every letter.
+
 4.Valid Anagram:
+Compare the numbers of lowercase letters as the last one.
+
 5.Valid Palindrome:
+Make every letter into lowercase in order to consider only alphanumeric characters and put them into an array, then compare.
+
 6.String to Integer:
+isdigit()function. Firstly to identify the the positive or negative, then to read every value. P.S. long type result in order to identify if the value is in appropriate range(int). 
+
 7.Implement strStr():
+memcmp().
+
 8.Count and Say:
+
 9.Longest Commom Prefix:
+
 Linked List:
 1.Delete Node in a Linked List:
+
+
 2.Remove Nth Node From End of List:
 3.Reverse Linked List:
 4.Merge Two Sorted Lists:
